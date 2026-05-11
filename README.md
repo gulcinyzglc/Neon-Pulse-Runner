@@ -76,5 +76,5 @@ No installation or external libraries are required.
 
 Play the game online:
 
-https://gulcinyzglc.github.io/neon-pulse-runner/
+https://gulcinyzglc.github.io/Neon-Pulse-Runner/
 
