@@ -53,13 +53,29 @@ NeonPulseRunner/
 
 ---
 
-## 🚀 How to Run
+## Setup and Execution
 
-1. Download or clone the repository
-2. Open the project folder
-3. Run `index.html` in your browser
+Clone the repository:
 
-No installation or external libraries are required.
+```bash
+git clone https://github.com/gulcinyzglc/Neon-Pulse-Runner.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Neon-Pulse-Runner
+```
+
+Launch the project using a local development server  
+(recommended: VS Code Live Server extension).
+
+Alternatively, open `index.html` directly in a modern web browser.
+
+## Requirements
+
+- Modern web browser (Chrome, Edge, Firefox, etc.)
+- No external dependencies or installation required
 
 ---
 
