@@ -72,4 +72,9 @@ No installation or external libraries are required.
 - Survive as long as possible and beat your high score
 
 ---
+## 🌐 Live Demo
+
+Play the game online:
+
+https://gulcinyzglc.github.io/neon-pulse-runner/
 
